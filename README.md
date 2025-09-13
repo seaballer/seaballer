@@ -15,11 +15,11 @@
 ## 📬 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([SEU_LINKEDIN](https://www.linkedin.com/in/lucas-b-pena/)) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](github.com/seaballer) 
-[![Email](https://img.shields.io/badge/Email-lucasbpena2003@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbpena2003@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasbpena2003@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 ![Lucas Barbosa Pena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seaballer&show_icons=true&theme=radical)
 
 ---
